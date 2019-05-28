@@ -1,0 +1,3 @@
+This is my Python calculator, I made it just for fun. While I was going through Python tutorials
+I came across a tutorial for how to make a calculator, as bored as I was; I decided to improve it,
+ and make it more complicated, and interactive. Hope you enjoy! 
